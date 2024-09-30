@@ -13,3 +13,7 @@ the data analysis projrct aims to generate insight...............
 - SQL
 - GitHub for portfolio building 
       
+```SQL
+SELECT * FROM TABLES
+WHERE CONDITION = TRUE
+```
